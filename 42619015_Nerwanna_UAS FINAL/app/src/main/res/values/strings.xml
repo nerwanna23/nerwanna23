@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_daftar">Daftar</string>
+    <string name="title_grafis">Grafis</string>
+    <string name="edittext_uri">http://instagram.com/wayn.prxty</string>
+    <string name="button_uri">Go</string>
+    <string name="edittext_number">083857567734</string>
+    <string name="button_number">telepon user</string>
+    <string name="edittext_share">Nerwanna Ganteng</string>
+    <string name="button_share">Share</string>
+</resources>
